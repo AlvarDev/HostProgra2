@@ -8,11 +8,6 @@
       "type": "1"
     },
     {
-      "latlng": "-12.2176825,-76.9730211",
-      "title": "capilla la cruz",
-      "type": "2"
-    },
-    {
       "latlng": "-12.2195643,-76.9406763",
       "title": "capilla Guadalupe",
       "type": "2"
