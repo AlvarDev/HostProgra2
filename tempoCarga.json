@@ -1,0 +1,108 @@
+{
+    "status": 200,
+    "posts": [
+    {
+    "title": "Erival Trading SAC",
+    "pid": 205,
+    "logo": "http://cargatotal.yarinas.com/wp-content/uploads/2013/10/img396.jpg",
+    "contacto": "Sra. Rosalia Cuba Vargas",
+    "departamento": "Lima",
+    "distrito": "San Luis",
+    "address": "dota peru",
+    "telephones" : "991688188 (RPC)"
+    },
+    {
+    "title": "Transportes Paul",
+    "pid": 212,
+    "logo": "http://cargatotal.yarinas.com/wp-content/uploads/2013/11/transportes-paul.jpg",
+    "contacto": "Eduardo Chumbipuma",
+    "departamento": "Lima",
+    "distrito": "Villa el Salvador",
+    "address": "Mz. L Lote 06, Sector 02, Grupo 13",
+    "telephones": "51*819*754"
+    },
+    {
+    "title": "Miguel Angel Castañeda Alvarez",
+    "pid": 222,
+    "logo": "http://cargatotal.com/wp-content/themes/cargatotal/img/sin-logo.jpg",
+    "contacto": "MIGUEL ANGEL CASTAÑEDA ALVAREZ",
+    "departamento": "LIMA",
+    "distrito": "VILLA MARIA DEL TRIUNFO",
+    "address": "calle maria parado de bellido Nro 243 san gabriel alto",
+    "telephones": "98121*6566"
+    },
+    {
+    "title": "Serv. &#038; Transp. Hinostroza Larrivieri S.A.",
+    "pid": 224,
+    "logo": "http://cargatotal.com/wp-content/themes/cargatotal/img/sin-logo.jpg",
+    "contacto": "JULIO HINOSTROZA",
+    "departamento": "LIMA",
+    "distrito": "CALLAO",
+    "address": "Pj. LAS GLISINAS Nro 146 URB. VIPOL",
+    "telephones": "574-2223"
+    },
+    {
+    "title": "Alberto Alvarez Bazán",
+    "pid": 226,
+    "logo": "http://cargatotal.com/wp-content/themes/cargatotal/img/sin-logo.jpg",
+    "contacto": "ALBERTO ALVAREZ BAZAN",
+    "departamento": "LIMA",
+    "distrito": "SAN MARTIN DE PORRES",
+    "address": "Av. jose granda Nro. 3544 Urb. popcondevilla del señor",
+    "telephones": "99814*7403"
+    },
+    {
+    "title": "Corporacion Logistica &#038; Transporte sac",
+    "pid": 230,
+    "logo": "http://cargatotal.yarinas.com/wp-content/uploads/2014/01/image001.jpg",
+    "contacto": "Jose Bautista",
+    "departamento": "LIMA",
+    "distrito": "Cercado de Lima",
+    "address": "Jr. Francisco Masias 2369 - Urb. Elio",
+    "telephones": "987-212609 RPC"
+    },
+    {
+    "title": "Sermucot",
+    "pid": 247,
+    "logo": "http://cargatotal.yarinas.com/wp-content/uploads/2014/03/servicios-multiples-cotrina.png",
+    "contacto": "Misael",
+    "departamento": "Pasco",
+    "distrito": "Chaupimarca",
+    "address": "CALLE LIMA NRO 224",
+    "telephones": "063 - 422518"
+    },
+    {
+    "title": "Sagrado Corazón de Jesús S.A.C.",
+    "pid": 252,
+    "logo": "http://cargatotal.com/wp-content/themes/cargatotal/img/sin-logo.jpg",
+    "contacto": "Wilmer Correa Guzman",
+    "departamento": "Lima",
+    "distrito": "Los Olivos",
+    "address": "Av. Betancourt Mz.C Lte.37 A.H. Los Olivos de Pro",
+    "telephones": "Fijo: 544-3271"
+    },
+    {
+    "title": "Transporte Pariñas S.A.C.",
+    "pid": 254,
+    "logo": "http://cargatotal.com/wp-content/themes/cargatotal/img/sin-logo.jpg",
+    "contacto": "Carmen Muñoz",
+    "departamento": "Lima",
+    "distrito": "Breña",
+    "address": "Jr. Pomabamba 374 Of. 305 Breña",
+    "telephones": "5593369"
+    },
+    {
+    "title": "Transportes Apus Express",
+    "pid": 256,
+    "logo": "http://cargatotal.com/wp-content/themes/cargatotal/img/sin-logo.jpg",
+    "contacto": "Roberto Contreras Sauñe",
+    "departamento": "Callao",
+    "distrito": "Callao",
+    "address": "Urb. La Quilla Mz. C Lte. 17",
+    "telephones": "575-1026"
+    }
+    ],
+    "number_of_results": 26,
+    "number_of_pages": 3,
+    "page": 1
+    }
