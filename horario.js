@@ -1,0 +1,91 @@
+{
+  "horarios": {
+    "horario": [
+      {
+        "codfacultad": "9",
+        "codcliente": "a11144793",
+        "mail": "alvaro_huanca@usmp.pe",
+        "codcurso": "90721",
+        "descurso": "DISE�O E IMPLEMENTACION DE SISTEMAS",
+        "categoriacurso": "TEORIA",
+        "docente": "ZAMBRANO LOLI GENER VICTOR",
+        "seccion": "42G",
+        "dia": "MARTES",
+        "inicio": "17:45:00",
+        "termino": "20:00:00",
+        "aula": "304",
+        "pabellon": "ESTUDIOS GENERALES",
+        "semestre": "2015-1",
+        "anio": "2015"
+      },
+      {
+        "codfacultad": "9",
+        "codcliente": "a11144793",
+        "mail": "alvaro_huanca@usmp.pe",
+        "codcurso": "90971",
+        "descurso": "INGLES I",
+        "categoriacurso": "TEORIA",
+        "docente": "SIN DOCENTE  ",
+        "seccion": "14A",
+        "dia": "DOMINGO",
+        "inicio": "08:00:00",
+        "termino": "10:15:00",
+        "aula": "004",
+        "pabellon": "AULAS VIRTUALES",
+        "semestre": "2015-1",
+        "anio": "2015"
+      },
+      {
+        "codfacultad": "9",
+        "codcliente": "a11144793",
+        "mail": "alvaro_huanca@usmp.pe",
+        "codcurso": "90713",
+        "descurso": "LABORATORIO DE DISE�O E IMPLEMENTACION DE SISTEMAS",
+        "categoriacurso": "LABORATORIO",
+        "docente": "HENRIQUEZ TABOADA HECTOR HERNAN",
+        "seccion": "62G",
+        "dia": "VIERNES",
+        "inicio": "17:45:00",
+        "termino": "19:15:00",
+        "aula": "E-1",
+        "pabellon": "FIA - DATA",
+        "semestre": "2015-1",
+        "anio": "2015"
+      },
+      {
+        "codfacultad": "9",
+        "codcliente": "a11144793",
+        "mail": "alvaro_huanca@usmp.pe",
+        "codcurso": "90672",
+        "descurso": "PROGRAMACION II",
+        "categoriacurso": "TEORIA",
+        "docente": "DUARTE JACOME FRED LUIS",
+        "seccion": "70K",
+        "dia": "SABADO",
+        "inicio": "19:15:00",
+        "termino": "22:15:00",
+        "aula": "A-1",
+        "pabellon": "FIA - DATA",
+        "semestre": "2015-1",
+        "anio": "2015"
+      },
+      {
+        "codfacultad": "9",
+        "codcliente": "a11144793",
+        "mail": "alvaro_huanca@usmp.pe",
+        "codcurso": "90673",
+        "descurso": "PROYECTO I",
+        "categoriacurso": "TEORIA",
+        "docente": "CUADROS RICRA RUBEN DARIO",
+        "seccion": "53I",
+        "dia": "MIERCOLES",
+        "inicio": "17:45:00",
+        "termino": "20:00:00",
+        "aula": "206",
+        "pabellon": "ESPECIALIDADES",
+        "semestre": "2015-1",
+        "anio": "2015"
+      }
+    ]
+  }
+}
