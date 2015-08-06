@@ -1,5 +1,5 @@
 {
-  "notas": [
+  "cursos": [
     {
       "nombreCurso": "DISEÑO E IMPLEMENTACIÓN DE SISTEMAS",
       "promedioFinal": "14",
