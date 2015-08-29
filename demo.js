@@ -1,5 +1,5 @@
 {
-  "usuario": "Universidad de San Martin de Porres",
-  "facultad": "FIA",
+  "usuario": "Yayi",
+  "facultad": "Izquierdo",
   "logo": "http://www.institutotaylor.edu.pe/images/logo_usmp.png"
 }
