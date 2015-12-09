@@ -1,0 +1,4 @@
+Hero.php 	    => copiar en app/
+HeroController.php  => copiar en app/Http/Controllers
+routes.php 	    => reemplazar en app/Http
+VerifyCsrfToken.php => reemplazar en vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/
