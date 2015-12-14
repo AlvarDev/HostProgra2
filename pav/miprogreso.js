@@ -5,6 +5,7 @@
     {
       "numCursos": 7,
       "numCursosAprob": 7,
+      "texot": "I",
       "cursos": [
         {
           "nombre": "Curso de prueba 0",
@@ -46,6 +47,7 @@
     {
       "numCursos": 7,
       "numCursosAprob": 7,
+      "texot": "II",
       "cursos": [
         {
           "nombre": "Curso de prueba 0",
@@ -87,6 +89,7 @@
     {
       "numCursos": 7,
       "numCursosAprob": 7,
+      "texot": "III",
       "cursos": [
         {
           "nombre": "Curso de prueba 0",
@@ -128,6 +131,7 @@
     {
       "numCursos": 7,
       "numCursosAprob": 7,
+      "texot": "IV",
       "cursos": [
         {
           "nombre": "Curso de prueba 0",
@@ -169,6 +173,7 @@
     {
       "numCursos": 7,
       "numCursosAprob": 4,
+      "texot": "V",
       "cursos": [
         {
           "nombre": "Curso de prueba 0",
@@ -210,6 +215,7 @@
     {
       "numCursos": 7,
       "numCursosAprob": 0,
+      "texot": "VI",
       "cursos": [
         {
           "nombre": "Curso de prueba 0",
@@ -251,6 +257,7 @@
     {
       "numCursos": 7,
       "numCursosAprob": 2,
+      "texot": "EI",
       "cursos": [
         {
           "nombre": "Curso de prueba 0",
