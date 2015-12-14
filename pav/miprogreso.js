@@ -1,6 +1,5 @@
 {
   "success": true,
-  "cantCiclos": 7,
   "ciclos": [
     {
       "numCursos": 7,
